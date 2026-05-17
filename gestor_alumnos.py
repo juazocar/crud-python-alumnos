@@ -94,6 +94,7 @@ def cargar_alumnos():
     
     return alumnos
     
+print("Se agrega nuevo texto")
 
 alumnos = cargar_alumnos()
 
