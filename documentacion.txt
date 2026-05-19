@@ -4,3 +4,20 @@ git config --global user.email "correo@email.com"
 👉 push = subir cambios   git push -u origin master
 👉 origin = repositorio remoto
 👉 master = rama principal
+
+1. Crear rama
+2. Modificar proyecto
+3. Commit
+4. Push
+5. Crear Pull Request
+6. Revisar cambios
+7. Merge
+
+
+
+
+
+
+
+
+
