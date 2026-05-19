@@ -16,7 +16,9 @@ def listar_alumnos(alumnos):
     if len(alumnos) == 0:
         print("No hay alumnos registrados")
     else:
-        print("---- LISTADO DE ALUMNOS ----")
+        print("=================================")
+        print("---- SISTEMA CRUD DE ALUMNOS ----")
+        print("=================================")
         
         for i, alumno in enumerate(alumnos):
             print("Id: ", i)
